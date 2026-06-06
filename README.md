@@ -1,0 +1,2 @@
+# Stochastic_Interest_Rate_Modelling_and_Prediction
+This project implements, calibrates, and evaluates the Cox–Ingersoll–Ross (CIR) stochastic interest rate model on historical yield curve data. The objective is to reconstruct the entire yield curve using only the 3-Month yield as a proxy for the short-term interest rate and evaluate the model's ability to capture real-world term structure dynamics.
